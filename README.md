@@ -1,6 +1,6 @@
 ### Olá, eu sou o Hyago Rodrigues 👋
 
-[cite_start]Ex-Desenvolvedor Full Stack na **ZG Soluções** e atualmente focado em **Ciência de Dados** e **Governança de Dados**. [cite_start]Sou apaixonado por construir soluções escaláveis que transformam dados brutos em ativos estratégicos[cite: 8].
+Ex-Desenvolvedor Full Stack na **ZG Soluções** e atualmente focado em **Ciência de Dados** e **Governança de Dados**. Sou apaixonado por construir soluções escaláveis que transformam dados brutos em ativos estratégicos.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hyagorodriguesandrade">
@@ -16,10 +16,10 @@
 ---
 
 ### 🚀 Sobre Mim
-- [cite_start]🎓 Graduado em Análise e Desenvolvimento de Sistemas e cursando Ciência de Dados[cite: 45, 46].
-- [cite_start]🛠️ Experiência sólida com **Java (Spring Boot)**, **Groovy** e **JavaScript/TypeScript**[cite: 40, 50].
-- [cite_start]📊 Atuei na **ANVISA** com Governança de Dados, BI e conformidade com a LGPD[cite: 11, 15].
-- [cite_start]💡 Desenvolvedor do **ErrorExpert**, plataforma que utiliza IA Generativa (Gemini API) para análise de desempenho acadêmico[cite: 31, 36].
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas e cursando Ciência de Dados.
+- 🛠️ Experiência sólida com **Java (Spring Boot)**, **Groovy** e **JavaScript/TypeScript**.
+- 📊 Atuei na **ANVISA** com Governança de Dados, BI e conformidade com a LGPD.
+- 💡 Desenvolvedor do **ErrorExpert**, plataforma que utiliza IA Generativa (Gemini API) para análise de desempenho acadêmico.
 
 ---
 
